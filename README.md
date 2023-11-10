@@ -1,17 +1,17 @@
-# MASTERCARD_PRED
+# Transaction Fraud Detection with Scikit-learn
 
 ## Overview
 
-This Python project uses Scikit-Learn to predict the stock values of Mastercard based on historical data from previous years.
+This project aims to develop a transaction fraud detection system using the Scikit-learn library. The goal is to build a model that can effectively identify and flag potentially fraudulent transactions in a given dataset.
 
-## Project Structure
+## Table of Contents
 
-- **data**: Contains historical stock data for training and testing the model.
-  
-- **notebooks**: Jupyter notebooks for data exploration, model training, and evaluation.
-
-- **src**: Python scripts for data preprocessing, model training, and evaluation.
-
-- **models**: Storage for trained models.
-
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Dataset](#dataset)
+4. [Model Training](#model-training)
+5. [Evaluation](#evaluation)
+6. [Dependencies](#dependencies)
+7. [Contributing](#contributing)
+8. [License](#license)
 
