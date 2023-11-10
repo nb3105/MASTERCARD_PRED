@@ -1,5 +1,4 @@
 # MASTERCARD_PRED
-# Mastercard Stock Prediction with Scikit-Learn
 
 ## Overview
 
